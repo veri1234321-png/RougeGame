@@ -1,0 +1,316 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+html{
+  scroll-behavior:smooth;
+}
+
+body{
+  font-family:Arial, sans-serif;
+  background:#f4f4f4;
+  color:#222;
+  line-height:1.6;
+  transition:0.5s;
+}
+
+.container{
+  width:90%;
+  max-width:1200px;
+  margin:auto;
+}
+
+header{
+  background:#111827;
+  color:white;
+  position:sticky;
+  top:0;
+  z-index:1000;
+  box-shadow:0 4px 10px rgba(0,0,0,0.3);
+}
+
+.header-content{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:20px 0;
+}
+
+nav{
+  display:flex;
+  justify-content:center;
+  gap:25px;
+  padding:15px;
+  background:#0f172a;
+}
+
+nav a{
+  color:white;
+  text-decoration:none;
+  transition:0.3s;
+}
+
+nav a:hover{
+  color:#60a5fa;
+}
+
+.hero{
+  padding:70px 0;
+}
+
+.hero-content{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:40px;
+  flex-wrap:wrap;
+}
+
+.hero-text{
+  flex:1;
+  min-width:300px;
+}
+
+.slider{
+  position:relative;
+  width:500px;
+  max-width:100%;
+}
+
+.slides{
+  overflow:hidden;
+  border-radius:20px;
+}
+
+.slide{
+  width:100%;
+  height:320px;
+  object-fit:cover;
+  display:none;
+  background:black;
+}
+
+.slide.active{
+  display:block;
+}
+
+.slide-btn{
+  position:absolute;
+  top:50%;
+  transform:translateY(-50%);
+  z-index:10;
+  background:rgba(0,0,0,0.6);
+}
+
+.prev{
+  left:10px;
+}
+
+.next{
+  right:10px;
+}
+
+section{
+  padding:70px 0;
+}
+
+h2{
+  margin-bottom:30px;
+  font-size:36px;
+}
+
+.cards{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+  gap:20px;
+}
+
+.card{
+  background:white;
+  padding:25px;
+  border-radius:16px;
+  box-shadow:0 5px 15px rgba(0,0,0,0.1);
+}
+
+.card ul{
+  margin-left:20px;
+}
+
+.video-block{
+  margin-top:40px;
+  text-align:center;
+}
+
+.video-block iframe{
+  max-width:100%;
+  border-radius:20px;
+}
+
+.dark{
+  background:#111827;
+  color:white;
+}
+
+.team-grid{
+  display:grid;
+}
+
+.member{
+  background:#1f2937;
+  padding:25px;
+  border-radius:16px;
+  text-align:center;
+}
+
+.member img{
+  width:120px;
+  margin-bottom:15px;
+}
+
+.posts{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(320px,1fr));
+  gap:25px;
+}
+
+.post{
+  background:white;
+  padding:30px;
+  border-radius:20px;
+  box-shadow:0 5px 15px rgba(0,0,0,0.1);
+  position:relative;
+  overflow:hidden;
+  transition:0.4s;
+}
+
+.post::before{
+  content:'';
+  position:absolute;
+  top:0;
+  left:0;
+  width:7px;
+  height:100%;
+  background:linear-gradient(
+    to bottom,
+    #3b82f6,
+    #9333ea
+  );
+}
+
+.post:hover{
+  transform:translateY(-10px);
+  box-shadow:0 20px 35px rgba(0,0,0,0.2);
+}
+
+.post h3{
+  margin-bottom:20px;
+  color:#2563eb;
+}
+
+.post p{
+  margin-bottom:15px;
+}
+
+.progress-box{
+  margin-top:60px;
+}
+
+.progress-bar{
+  width:100%;
+  height:35px;
+  background:#ddd;
+  border-radius:20px;
+  overflow:hidden;
+  margin:20px 0;
+}
+
+.progress{
+  height:100%;
+  width:0%;
+  background:linear-gradient(
+    90deg,
+    #3b82f6,
+    #9333ea
+  );
+  transition:0.5s;
+}
+
+button{
+  padding:12px 22px;
+  border:none;
+  border-radius:12px;
+  background:#2563eb;
+  color:white;
+  cursor:pointer;
+  font-size:16px;
+  transition:0.3s;
+}
+
+button:hover{
+  transform:scale(1.05);
+}
+
+#completeMessage{
+  margin-bottom:15px;
+  font-size:24px;
+  font-weight:bold;
+}
+
+.resource-list{
+  display:flex;
+  flex-direction:column;
+  gap:15px;
+}
+
+.resource-list a{
+  color:#93c5fd;
+  text-decoration:none;
+  font-size:18px;
+}
+
+footer{
+  background:#0f172a;
+  color:white;
+  text-align:center;
+  padding:20px;
+}
+
+.dark-theme{
+  background:#020617;
+  color:white;
+}
+
+.dark-theme .card,
+.dark-theme .post{
+  background:#1e293b;
+  color:white;
+}
+
+.event-theme{
+  background:
+    linear-gradient(
+      135deg,
+      #0f172a,
+      #1e3a8a,
+      #7e22ce
+    );
+}
+
+.event-theme .card,
+.event-theme .post,
+.event-theme .member{
+  background:#111827;
+  color:white;
+}
+
+.event-theme .progress{
+  background:
+    linear-gradient(
+      90deg,
+      #22d3ee,
+      #a855f7,
+      #ec4899
+    );
+}

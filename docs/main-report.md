@@ -86,3 +86,5 @@ https://docs.python.org/3/
 https://core.telegram.org/bots/api
 * Git Documentation — Reference Manual:
 https://git-scm.com/doc
+* Roguesharp — Creating a Roguelike Game in C#:
+https://roguesharp.wordpress.com/

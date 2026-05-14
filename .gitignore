@@ -1,0 +1,20 @@
+# Hugo
+.hugo_build.lock
+resources/
+public/
+
+# Build artifacts
+src/build/
+*.exe
+*.dll
+*.obj
+*.o
+*.a
+*.lib
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# project info
+project-info.md

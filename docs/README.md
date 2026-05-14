@@ -62,3 +62,16 @@
 Разработанный Telegram-бот и сопутствующие элементы, включая мини-игры и веб-сайт, демонстрируют возможность эффективного использования геймификации в обучении иностранным языкам. Полученный опыт может быть использован в дальнейшей профессиональной деятельности, а также при разработке аналогичных образовательных решений.
 
 ---
+
+## Список используемой литературы
+
+* Microsoft Learn — C# Language Reference
+https://learn.microsoft.com/ru-ru/dotnet/csharp/language-reference/
+* Markdown Guide — Basic Syntax and Documentation
+https://www.markdownguide.org/
+* Python Software Foundation — Python Documentation
+https://docs.python.org/3/
+* Telegram Bot API — Official Documentation
+https://core.telegram.org/bots/api
+* Git Documentation — Reference Manual
+https://git-scm.com/doc

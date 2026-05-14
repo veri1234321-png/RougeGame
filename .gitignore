@@ -11,7 +11,7 @@ src/build/
 *.o
 *.a
 *.lib
-
+*.vsidx
 # OS files
 .DS_Store
 Thumbs.db

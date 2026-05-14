@@ -65,13 +65,13 @@
 
 ## Список используемой литературы
 
-* Microsoft Learn — C# Language Reference
+* Microsoft Learn — C# Language Reference:
 https://learn.microsoft.com/ru-ru/dotnet/csharp/language-reference/
-* Markdown Guide — Basic Syntax and Documentation
+* Markdown Guide — Basic Syntax and Documentation:
 https://www.markdownguide.org/
-* Python Software Foundation — Python Documentation
+* Python Software Foundation — Python Documentation:
 https://docs.python.org/3/
-* Telegram Bot API — Official Documentation
+* Telegram Bot API — Official Documentation:
 https://core.telegram.org/bots/api
-* Git Documentation — Reference Manual
+* Git Documentation — Reference Manual:
 https://git-scm.com/doc

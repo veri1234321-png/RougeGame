@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #OS junk files
 [Tt]humbs.db
 *.DS_Store
@@ -78,3 +79,26 @@ obj/
 *.user
 *.suo
 *.vsidx
+=======
+# Hugo
+.hugo_build.lock
+resources/
+public/
+
+# Build artifacts
+src/build/
+*.exe
+*.dll
+*.obj
+*.o
+*.a
+*.lib
+*.vsidx
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# project info
+project-info.md
+>>>>>>> 215616fb47f7d407529fce311dfb2bce73f69f5d

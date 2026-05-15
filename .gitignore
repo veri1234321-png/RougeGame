@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-#OS junk files
-[Tt]humbs.db
-*.DS_Store
-
-#Visual Studio files
 *.[Oo]bj
 *.user
 *.aps
@@ -33,7 +26,6 @@ obj/
 [Rr]elease*/
 Ankh.NoLoad
 
-#MonoDevelop
 *.pidb
 *.userprefs
 
@@ -42,54 +34,17 @@ _ReSharper*/
 *.resharper
 [Tt]est[Rr]esult*
 *.sass-cache
-
-#Project files
-[Bb]uild/
-
-#Subversion files
-.svn
-
-# Office Temp Files
-~$*
-
-#NuGet
-packages/
-
-#ncrunch
-*ncrunch*
-*crunch*.local.xml
-
-# visual studio database projects
-*.dbmdl
-
-#Test files
-*.testsettings
-
-#Beyond Compare Ignores
-*.orig
-
-#Sandcastle Generated Help Files
-RogueSharp.Docs/Help/
-
-#Necessary Dlls
-!Dlls/*
-
-=======
->>>>>>> 1ecda107c9633f7d5fa951a884d26a1261c07be9
 .vs/
 bin/
 obj/
 *.user
 *.suo
-<<<<<<< HEAD
 *.vsidx
-=======
 # Hugo
 .hugo_build.lock
 resources/
 public/
 
-# Build artifacts
 src/build/
 *.exe
 *.dll
@@ -98,14 +53,3 @@ src/build/
 *.a
 *.lib
 *.vsidx
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# project info
-project-info.md
->>>>>>> 215616fb47f7d407529fce311dfb2bce73f69f5d
-=======
-*.vsidx
->>>>>>> 1ecda107c9633f7d5fa951a884d26a1261c07be9

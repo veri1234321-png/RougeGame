@@ -192,5 +192,151 @@
   "game_nm_lvl_plural": "Nominative: Plural",
   "game_nm_lvl_pronouns": "Nominative: Pronouns",
   "game_nm_lvl_questions": "Nominative: Questions",
-  "game_nm_lvl_advanced": "Nominative: Advanced"
+  "game_nm_lvl_advanced": "Nominative: Advanced",
+
+
+  "game_ph_btn_lesson": "Lessons Phonetics",
+
+
+  "game_phonetics_choose_lesson": "Choose a lesson:",
+  "game_phonetics_button_next_step": "Next step",
+  "phonetics_next_step": "Next?",
+  "game_phonetics_button_finish_lesson": "Finish lesson",
+  "phonetics_finish_lesson": "The end",
+  "game_phonetics_button_menu": "Back to the list of lessons",
+  "game_phonetics_step_label": "Step",
+
+
+  "game_phonetics_listen_prompt1_1": "There are 10 vowels in Russian: а, у, э, о, ы, я, и, ю, е, ё. ",
+  "game_phonetics_listen_prompt1_2": "а sounds like 'a' in ‘car’\nу sounds like 'oo' in ‘cool’\nэ sounds  like 'e' in ‘end’\nо sounds like 'o' in ‘more’",
+  "game_phonetics_listen_prompt1_3": "а – у – э – о\n\nо – э – у – а\n\nа – о      о – у      у – э\n\nо – э      э – а       а – у",
+
+  "game_phonetics_hint1_1": "Listen",
+  "game_phonetics_hint1_2": "Listen",
+  "game_phonetics_hint1_3": " Listen to the audio & repeat out loud",
+
+
+  "game_phonetics_listen_prompt2_1": "Sound of the Russian letter ‘ы’ has no equivalent in English. To pronounce ‘ы’, pull your tongue back in your mouth and try to say ‘ill’. The sound should be coming from deep down in your throat. The position of the tongue is similar to the position for the Russian vowel ‘y’, but the lips remain neutral and relaxed — not protruded or rounded.",
+  "game_phonetics_listen_prompt2_2": "ы – у      у – ы \n\nа – э – о – у – ы",
+  "game_phonetics_listen_prompt2_3": "\n",
+
+  "game_phonetics_hint2_1": "Listen to the audio and repeat",
+  "game_phonetics_hint2_2": "Listen to the audio & repeat out loud",
+  "game_phonetics_hint2_3": "Listen to the audio and repeat",
+
+
+  "game_phonetics_listen_prompt3_1": "с sounds like 's' in ‘sun’\nк sounds like 'k' in ‘key’\nм sounds like 'm' in ‘man’",
+  "game_phonetics_listen_prompt3_2": "са – су – сы – сэ – со\n\nка – ку – кы – кэ – ко\n\nма – му – мы – мэ – мо\n\nам – ум – ым – эм – ом",
+  "game_phonetics_listen_prompt3_3": "как   мак     ком       кум        ум       \n\nэму     эмо       Эмма     мы       мыс\n\nсам     сом        сок       сук       усы  ",
+
+  "game_phonetics_hint3_1": "These three consonants are pronounced like their corresponding letters in English",
+  "game_phonetics_hint3_2": "Listen to the audio & repeat the syllables out loud",
+  "game_phonetics_hint3_3": "Listen to the audio & repeat the words. Then read the words out loud",
+
+  "game_phonetics_listen_prompt4_1": "The consonants ‘н’ and ‘л’ sound almost like the English letters ‘n’ and ‘l’ in the words ‘note’ and ‘love’. But, their pronunciation is a bit different. \n\nWhen you articulate the Russian letters ‘н’ and ‘л’, the tongue touches the back of the upper teeth.\n\nAs for their English counterparts, the tongue is a bit further back. It touches the teeth ridge – the bumpy area behind the upper front teeth.",
+  "game_phonetics_listen_prompt4_2": "на - ну - но - нэ - ны\n\nан - ун - он - эн - ын",
+  "game_phonetics_listen_prompt4_3": "нам     нас     нос     он        \n\nкон     сон     сан     сын",
+  "game_phonetics_listen_prompt4_4": "ла - лу - ло - лэ - лы\n\nна - ла     ну - лу    но - ло     нэ - лэ   ны - лы\n\nал - ул - ол - эл - ыл",
+  "game_phonetics_listen_prompt4_5": "лак        лук        лом      лоск\n\nкласс     клан      клон     клык\n\nслон       слом     кол       мул",
+
+  "game_phonetics_hint4_1": "Listen to the audio and repeat",
+  "game_phonetics_hint4_2": "Listen to the audio & repeat out loud",
+  "game_phonetics_hint4_3": "Listen to the audio & repeat the words out loud",
+  "game_phonetics_hint4_4": "Listen to the audio & repeat",
+  "game_phonetics_hint4_5": "Listen to the audio & repeat the words out loud",
+
+  "game_phonetics_listen_prompt5_1": "Russian consonants ‘т’ and ‘д’ resemble the English letters ‘t’ and ‘d’, but the pronunciation is different.  \n\nWhen pronouncing the Russian letters ‘т’ and ‘д’, you press the tip of the tongue against the back of the upper teeth, rather than against the teeth ridge, as it is with the English letters ‘t’ and ‘d’. This tongue position is the same when articulating the letter ‘n’ in ‘note’.",
+  "game_phonetics_listen_prompt5_2": "на - та - да      ну - ту - ду      но - то - до       нэ - тэ - дэ      ны - ты - ды\n\nта - ту - то - тэ - ты\n\nда - ду - до  - дэ - ды\n\nта - да      ту - ду      то - до      тэ - дэ      ты - ды",
+  "game_phonetics_listen_prompt5_3": "так      там       тон        ты        тут\n\nнут      кот        эта       сыт       мост    \n\nстук     стул      стол      сток     стан\n\nда        дан       дол       дом      дым",
+
+  "game_phonetics_hint5_1": "Listen to the audio and repeat",
+  "game_phonetics_hint5_2": "Listen to the audio & repeat the syllables",
+  "game_phonetics_hint5_3": "Listen to the audio & repeat the words. Then read the words out loud",
+
+  "game_phonetics_listen_prompt6_1": "п sounds like 'p' in ‘pet’\nб sounds like 'b' in ‘bed’",
+  "game_phonetics_listen_prompt6_2": "па - пу - по - пэ - пы\n\nба - бу - бо - бэ - бы\n\nпа - ба       пу - бу       по - бо       пэ - бэ       пы - бы\n\nап - уп - оп - эп - ып",
+  "game_phonetics_listen_prompt6_3": "пол       пыл        пуск       план\n\nсуп       сноп       топ         стоп     \n\nбал       банк       босс       бокс      \n\nбык       быт        бум        блок",
+
+  "game_phonetics_hint6_1": "п sounds like 'p' in ‘pet’\nб sounds like 'b' in ‘bed’",
+  "game_phonetics_hint6_2": "Listen to the audio & repeat the syllables",
+  "game_phonetics_hint6_3": "Listen to the audio & repeat the words. Then read the words out loud",
+
+  "game_phonetics_listen_prompt7_1": "ф sounds like 'f' in ‘fun’\nв sounds like 'v' in ‘very’",
+  "game_phonetics_listen_prompt7_2": "фа - ва       фу - ву       фо - во       фэ - вэ       фы - вы\n\nаф - уф - оф - эф - ыф",
+  "game_phonetics_listen_prompt7_3": "вас       вам        вата        вы\n\nвол       вот        внук        фут   \n\nфон      фан       фанк       факс",
+
+  "game_phonetics_hint7_1": "These consonants are pronounced like corresponding letters in English",
+  "game_phonetics_hint7_2": "Listen to the audio & repeat the syllables",
+  "game_phonetics_hint7_3": "Listen to the audio & repeat the words. Then read the words by yourself",
+
+  "game_phonetics_listen_prompt8_1": "The Russian consonant ‘р’ resembles the English letter ‘r’ in the word ‘right’. But, unlike the English letter ‘r’, it is a vibrating sound. When articulating it, the tip of the tongue is raised to the teeth ridge, but is not bent back. The tip of the tongue vibrates slightly touching the teeth ridge.",
+  "game_phonetics_listen_prompt8_2": "ра - ру - ро - рэ - ры\n\nпра - бра    пру - бру    про - бро    прэ - брэ     пры - бры \n\nар - ур - ор - эр\n\nла - ра   ло - ро   лу - ру   лы - ры",
+  "game_phonetics_listen_prompt8_3": "рак       рок        ром      ромб       рэп\n\nбрак     бром      брас     брус       прок     брат    прут\n\nбар       пар        вор       бор        дар\n\nсыр       сэр        мэр       парк      Марс    \n\nфарс     март      спорт",
+
+  "game_phonetics_hint8_1": "Listen to the audio and repeat",
+  "game_phonetics_hint8_2": "Listen to the audio & repeat the syllables",
+  "game_phonetics_hint8_3": "Listen to the audio & repeat the words. Then read the words out loud",
+
+  "game_phonetics_listen_prompt9_1": "Russian, like English and many other languages, uses word stresses. It means that one syllable in the word (the stressed one) is emphasized more than the rest. If there is only one syllable in the words, it is always stressed.",
+  "game_phonetics_listen_prompt9_2": "Stress is essential for correct pronunciation and spelling, because some vowel sounds in unstressed syllables are pronounced differently.\n\nMoreover, the misplacement of the stress may even affect the change in the word's meaning. For example:\n\nзамо́к (lock) - за́мок (castle), плачу́ (I pay) - пла́чу (I cry), etc.",
+  "game_phonetics_listen_prompt9_3": "ма́ма          па́па            ка́рта          ры́ба          па́ста        фо́рма\n\nрука́          сала́т           бана́н          бала́нс       балко́н      футбо́л       \n\nрабо́та       буты́лка      капу́ста        банкно́та",
+
+  "game_phonetics_hint9_1": "Listen to the audio and read the examples:\n\nма́ма, па́ста, сала́т, бана́н, рабо́та ",
+  "game_phonetics_hint9_2": "Normally, texts in Russian are written without stress marks. But, stress marks are used in dictionaries and texts for beginning learners.",
+  "game_phonetics_hint9_3": "Listen to the audio & repeat the words, paying attention to the stress. Then, read the words out loud",
+
+  "game_phonetics_listen_prompt10_1": "и sounds like 'ea' in ‘each’\nе sounds like 'ye' in ‘yet’\nя sounds like 'ya' in ‘yard’\nю sounds like 'u' in ‘use’\nё sounds like 'yo' in ‘yoga’\n\nNOTE! The letter ‘ё’ is always stressed in Russian words. So, we don’t put the stress mark in words with ‘ё’.",
+  "game_phonetics_listen_prompt10_2": "и - е - я - ю - ё\n\nё - ю - я - е - и \n\nян - ин - юн - ен - ён\n\nял - ил - юл - ел - ёл",
+  "game_phonetics_listen_prompt10_3": "икра       икона      поиск       если      евро\n\nуеду       яма          ярус        туя         юла       \n\nюрта       уют         ёлка        паёк       наём",
+
+  "game_phonetics_hint10_1": "These vowels are pronounced the same as in English",
+  "game_phonetics_hint10_2": "Listen to the audio & repeat out loud",
+  "game_phonetics_hint10_3": "Listen to the audio & repeat the words. Then read the words out loud",
+
+  "game_phonetics_lesson_label1": "LESSON 1: ‘А’, ‘У’, ‘О’ & ‘Э’",
+  "game_phonetics_lesson_label2": "LESSON 2: ‘Ы’",
+  "game_phonetics_lesson_label3": "LESSON 3: ‘С’, ‘К’ & ‘М’",
+  "game_phonetics_lesson_label4": "LESSON 4: ‘Н’ & ‘Л’",
+  "game_phonetics_lesson_label5": "LESSON 5: ‘Т’ & ‘Д’",
+  "game_phonetics_lesson_label6": "LESSON 6: ‘П’ & ‘Б’",
+  "game_phonetics_lesson_label7": "LESSON 7: ‘Ф’ & ‘В’",
+  "game_phonetics_lesson_label8": "LESSON 8: ‘Р’",
+  "game_phonetics_lesson_label9": "LESSON 9: WORD STRESS",
+  "game_phonetics_lesson_label10": "LESSON 10: ‘И’, ‘Е’, ‘Я’, ‘Ю’ & ‘Ё’",
+
+
+    "game_phonetics_end_text": "Lesson is over",
+
+  "game_phonetics_button_repeat_lesson": "🔄 Repeat the lesson",
+  "game_phonetics_button_next_lesson": "➡️ The next lesson",
+  "game_phonetics_button_lesson_menu": "📋 Lesson selection",
+  "game_phonetics_it_was_last_lesson": "That was the last lesson\nYou did well!",
+
+  "game_phonetics_button_menu_back": "Back to menu",
+
+  "game_ph_name": "⭐ Phonetics",
+  "game_ph_not_ready": "The game is not ready",
+  "game_ph_text_choose_game": "Choose a game",
+  "game_ph_btn_sound": "\uD83D\uDD0A Sound Recognition",
+  "game_ph_btn_repeat": "\uD83C\uDFA7 Repeat the Sequence",
+  "game_ph_btn_word": "\uD83E\uDDE0 Word Listening",
+  "game_ph_btn_test": "\uD83D\uDCD6 Test: Listening Test",
+  "game_ph_btn_next": "➡️ Next",
+  "lt_correct": "✅ Correct!",
+  "lt_wrong": "❌ Wrong. Correct answer: {correct}",
+  "lt_finished": "🏁 Listening Test finished\nScore: {score}/{total}",
+
+
+  "Тесты фонетика": "---",
+
+"pt_question_7": "Which number corresponds to the letter 'о'?",
+"pt_question_10": "Which number corresponds to the word 'мыс'?",
+"pt_question_16": "Which number corresponds to the word 'слон'?",
+"pt_question_20": "Which number corresponds to the word 'дым'?",
+"pt_question_27": "Which number corresponds to the word 'фон'?",
+"pt_question_31": "Which number corresponds to the word 'парк'?"
+
+
+
+
 }

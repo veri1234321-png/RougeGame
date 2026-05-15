@@ -182,5 +182,135 @@
   "game_nm_lvl_plural": "主格：複数形",
   "game_nm_lvl_pronouns": "主格：代名詞",
   "game_nm_lvl_questions": "主格：疑問詞",
-  "game_nm_lvl_advanced": "主格：応用"
+  "game_nm_lvl_advanced": "主格：応用",
+
+  "game_ph_name": "⭐ フォネティクス",
+  "game_ph_not_ready": "ゲームは準備できていません",
+  "game_ph_text_choose_game": "ゲームを選択",
+  "game_ph_btn_sound": "🔊 音声認識",
+  "game_ph_btn_repeat": "🎧 シーケンスを繰り返す",
+  "game_ph_btn_word": "🧠 単語の聞き取り",
+  "game_ph_btn_test": "📖 テスト：リスニングテスト",
+  "game_ph_btn_next": "➡️ 次へ",
+  "lt_correct": "✅ 正解！",
+  "lt_wrong": "❌ 間違い。正しい答え：{correct}",
+  "lt_finished": "🏁 リスニングテスト終了\nスコア：{score}/{total}",
+
+
+
+
+  "game_ph_btn_lesson": "発音レッスン",
+
+  "game_phonetics_choose_lesson": "レッスンを選んでください：",
+  "game_phonetics_button_next_step": "次のステップ",
+  "phonetics_next_step": "次へ？",
+  "game_phonetics_button_finish_lesson": "レッスン終了",
+  "phonetics_finish_lesson": "終了",
+  "game_phonetics_button_menu": "レッスン一覧に戻る",
+  "game_phonetics_step_label": "ステップ",
+
+  "game_phonetics_listen_prompt1_1": "ロシア語には10個の母音があります：а, у, э, о, ы, я, и, ю, е, ё。",
+  "game_phonetics_listen_prompt1_2": "а は car の 'a' のように発音します\nу は cool の 'oo' のように発音します\nэ は end の 'e' のように発音します\nо は more の 'o' のように発音します",
+  "game_phonetics_listen_prompt1_3": "а – у – э – о\n\nо – э – у – а\n\nа – о      о – у      у – э\n\nо – э      э – а       а – у",
+
+  "game_phonetics_hint1_1": "聞く",
+  "game_phonetics_hint1_2": "聞く",
+  "game_phonetics_hint1_3": "音声を聞いて大きな声で繰り返してください",
+
+  "game_phonetics_listen_prompt2_1": "ロシア語の文字 ‘ы’ の音には、日本語に直接対応する音がありません。発音するには、舌を口の奥へ引き、'i' に近い音を出してみてください。音は喉の奥から出します。舌の位置はロシア語母音 ‘у’ に似ていますが、唇は自然にリラックスしたままにします。",
+  "game_phonetics_listen_prompt2_2": "ы – у      у – ы \n\nа – э – о – у – ы",
+  "game_phonetics_listen_prompt2_3": "\n",
+
+  "game_phonetics_hint2_1": "音声を聞いて繰り返してください",
+  "game_phonetics_hint2_2": "音声を聞いて大きな声で繰り返してください",
+  "game_phonetics_hint2_3": "音声を聞いて繰り返してください",
+
+  "game_phonetics_listen_prompt3_1": "с は sun の 's' のように発音します\nк は key の 'k' のように発音します\nм は man の 'm' のように発音します",
+  "game_phonetics_listen_prompt3_2": "са – су – сы – сэ – со\n\nка – ку – кы – кэ – ко\n\nма – му – мы – мэ – мо\n\nам – ум – ым – эм – ом",
+  "game_phonetics_listen_prompt3_3": "как   мак     ком       кум        ум\n\nэму     эмо       Эмма     мы       мыс\n\nсам     сом        сок       сук       усы",
+
+  "game_phonetics_hint3_1": "この3つの子音は英語の対応する文字と似た発音です",
+  "game_phonetics_hint3_2": "音声を聞いて音節を大きな声で繰り返してください",
+  "game_phonetics_hint3_3": "音声を聞いて単語を繰り返し、その後声に出して読んでください",
+
+
+  "game_phonetics_listen_prompt4_1": "ロシア語の子音「н」と「л」は、英語の「note」と「love」における「n」と「l」にほぼ似ていますが、発音は少し異なります。\n\nロシア語の「н」と「л」を発音する際、舌は上の歯の裏に触れます。\n\n英語の場合は舌の位置がもう少し後ろにあり、上の前歯のすぐ後ろにある盛り上がった部分（歯茎）に触れます。",
+  "game_phonetics_listen_prompt4_2": "на - ну - но - нэ - ны\n\nан - ун - он - эн - ын",
+  "game_phonetics_listen_prompt4_3": "нам     нас     нос     он        \n\nкон     сон     сан     сын",
+  "game_phonetics_listen_prompt4_4": "ла - лу - ло - лэ - лы\n\nна - ла     ну - лу    но - ло     нэ - лэ   ны - лы\n\nал - ул - ол - эл - ыл",
+  "game_phonetics_listen_prompt4_5": "лак        лук        лом      лоск\n\nкласс     клан      клон     клык\n\nслон       слом     кол       мул",
+  "game_phonetics_hint4_1": "音声を聞いてリピートしてください",
+  "game_phonetics_hint4_2": "音声を聞いて、声に出してリピートしてください",
+  "game_phonetics_hint4_3": "音声を聞いて、単語を声に出してリピートしてください",
+  "game_phonetics_hint4_4": "音声を聞いてリピートしてください",
+  "game_phonetics_hint4_5": "音声を聞いて、単語を声に出してリピートしてください",
+  "game_phonetics_listen_prompt5_1": "ロシア語の子音「т」と「д」は英語の「t」と「d」に似ていますが、発音が異なります。\n\nロシア語の「т」と「д」を発音するとき、舌の先を上の歯の裏に押し当てます。英語の「t」や「d」のように歯茎に押し当てるのとは異なります。この舌の位置は、「note」の「n」を発音するときの位置と同じです。",
+  "game_phonetics_listen_prompt5_2": "на - та - да      ну - ту - ду      но - то - до       нэ - тэ - дэ      ны - ты - ды\n\nта - ту - то - тэ - ты\n\nда - ду - до  - дэ - ды\n\nта - да      ту - ду      то - до      тэ - дэ      ты - ды",
+  "game_phonetics_listen_prompt5_3": "так      там       тон        ты        тут\n\nнут      кот        эта       сыт       мост    \n\nстук     стул      стол      сток     стан\n\nда        дан       дол       дом      дым",
+  "game_phonetics_hint5_1": "音声を聞いてリピートしてください",
+  "game_phonetics_hint5_2": "音声を聞いて、音節をリピートしてください",
+  "game_phonetics_hint5_3": "音声を聞いて単語をリピートしてください。その後、その単語を声に出して読んでください",
+  "game_phonetics_listen_prompt6_1": "「п」は「pet」の「p」のように聞こえます。\n「б」は「bed」の「b」のように聞こえます。",
+  "game_phonetics_listen_prompt6_2": "па - пу - по - пэ - пы\n\nба - бу - бо - бэ - бы\n\nпа - ба       пу - бу       по - бо       пэ - бэ       пы - бы\n\nап - уп - оп - эп - ып",
+  "game_phonetics_listen_prompt6_3": "пол       пыл        пуск       план\n\nсуп       сноп       топ         стоп     \n\nбал       банк       босс       бокс      \n\nбык       быт        бум        блок",
+  "game_phonetics_hint6_1": "「п」は「pet」の「p」のように聞こえます。\n「б」は「bed」の「b」のように聞こえます。",
+  "game_phonetics_hint6_2": "音声を聞いて、音節をリピートしてください",
+  "game_phonetics_hint6_3": "音声を聞いて単語をリピートしてください。その後、その単語を声に出して読んでください",
+  "game_phonetics_listen_prompt7_1": "「ф」は「fun」の「f」のように聞こえます。\n「в」は「very」の「v」のように聞こえます。",
+  "game_phonetics_listen_prompt7_2": "фа - ва       фу - ву       фо - во       фэ - вэ       фы - вы\n\nаф - уф - оф - эф - ыф",
+  "game_phonetics_listen_prompt7_3": "вас       вам        вата        вы\n\nвол       вот        внук        фут   \n\nфон      фан       фанк       факс",
+  "game_phonetics_hint7_1": "これらの子音は、英語の対応する文字と同じように発音されます",
+  "game_phonetics_hint7_2": "音声を聞いて、音節をリピートしてください",
+  "game_phonetics_hint7_3": "音声を聞いて単語をリピートしてください。その後、自分で単語を読んでください",
+  "game_phonetics_listen_prompt8_1": "ロシア語の子音「р」は「right」の「r」に似ていますが、英語の「r」とは異なり、巻き舌音（振動音）です。発音する際、舌先を歯茎に向けて持ち上げますが、後ろには曲げません。舌先が歯茎に触れながらわずかに振動します。",
+  "game_phonetics_listen_prompt8_2": "ра - ру - ро - рэ - ры\n\nпра - бра    пру - бру    про - бро    прэ - брэ     пры - бры \n\nар - ур - ор - эр\n\nла - ра   ло - ро   лу - ру   лы - ры",
+  "game_phonetics_listen_prompt8_3": "рак       рок        ром      ромб       рэп\n\nбрак     бром      брас     брус       прок     брат    прут\n\nбар       пар        вор       бор        дар\n\nсыр       сэр        мэр       парк      Марс    \n\nфарс     март      спорт",
+  "game_phonetics_hint8_1": "音声を聞いてリピートしてください",
+  "game_phonetics_hint8_2": "音声を聞いて、音節をリピートしてください",
+  "game_phonetics_hint8_3": "音声を聞いて単語をリピートしてください。その後、その単語を声に出して読んでください",
+  "game_phonetics_listen_prompt9_1": "ロシア語は、英語や他の多くの言語と同様に、単語のアクセントを使います。これは、単語の中の一つの音節（アクセントのある音節）が他よりも強調されることを意味します。単語が一音節しかない場合は、常にアクセントがあります。",
+  "game_phonetics_listen_prompt9_2": "アクセントは正しい発音と綴りのために不可欠です。アクセントのない音節の母音は発音が異なることがあるからです。\n\nさらに、アクセントの位置が違うと単語の意味が変わることもあります。例えば：\nзамо́к（錠）- за́мок（城）、плачу́（払う）- пла́чу（泣く）など。",
+  "game_phonetics_listen_prompt9_3": "ма́ма          па́па            ка́рта          ры́ба          па́ста        фо́рма\n\nрука́          сала́т           бана́н          бала́нс       балко́н      футбо́л       \n\nрабо́та       буты́лка      капу́ста        банкно́та",
+  "game_phonetics_hint9_1": "音声を聞いて、例を読んでください：\nма́ма, па́ста, сала́т, бана́н, рабо́та",
+  "game_phonetics_hint9_2": "通常、ロシア語のテキストにはアクセント記号は書かれませんが、辞書や学習者向けのテキストではアクセント記号が使われます。",
+  "game_phonetics_hint9_3": "音声を聞いてアクセントに注意しながらリピートしてください。その後、単語を声に出して読んでください",
+  "game_phonetics_listen_prompt10_1": "「и」は「each」の「ea」のように聞こえます。\n「е」は「yet」の「ye」のように聞こえます。\n「я」は「yard」の「ya」のように聞こえます。\n「ю」は「use」の「u」のように聞こえます。\n「ё」は「yoga」の「yo」のように聞こえます。\n\n注意！ロシア語では「ё」の文字は常にアクセントがあるため、単語の中に「ё」がある場合はアクセント記号を書きません。",
+  "game_phonetics_listen_prompt10_2": "и - е - я - ю - ё\n\nё - ю - я - е - и \n\nян - ин - юн - ен - ён\n\nял - ил - юл - ел - ёл",
+  "game_phonetics_listen_prompt10_3": "икра       икона      поиск       если      евро\n\nуеду       яма          ярус        туя         юла       \n\nюрта       уют         ёлка        паёк       наём",
+  "game_phonetics_hint10_1": "これらの母音は英語と同じように発音されます",
+  "game_phonetics_hint10_2": "音声を聞いて、声に出してリピートしてください",
+  "game_phonetics_hint10_3": "音声を聞いて単語をリピートしてください。その後、その単語を声に出して読んでください",
+
+
+  "game_phonetics_lesson_label1": "レッスン1：‘А’、‘У’、‘О’ と ‘Э’",
+  "game_phonetics_lesson_label2": "レッスン2：‘Ы’",
+  "game_phonetics_lesson_label3": "レッスン3：‘С’、‘К’ と ‘М’",
+  "game_phonetics_lesson_label4": "レッスン4：‘Н’ と ‘Л’",
+  "game_phonetics_lesson_label5": "レッスン5：‘Т’ と ‘Д’",
+  "game_phonetics_lesson_label6": "レッスン6：‘П’ と ‘Б’",
+  "game_phonetics_lesson_label7": "レッスン7：‘Ф’ と ‘В’",
+  "game_phonetics_lesson_label8": "レッスン8：‘Р’",
+  "game_phonetics_lesson_label9": "レッスン9：語勢アクセント",
+  "game_phonetics_lesson_label10": "レッスン10：‘И’、‘Е’、‘Я’、‘Ю’ と ‘Ё’",
+
+  "game_phonetics_end_text": "レッスンが終了しました",
+
+  "game_phonetics_button_repeat_lesson": "🔄 もう一度学ぶ",
+  "game_phonetics_button_next_lesson": "➡️ 次のレッスン",
+  "game_phonetics_button_lesson_menu": "📋 レッスン選択",
+  "game_phonetics_it_was_last_lesson": "これが最後のレッスンです\nよくできました！",
+
+  "game_phonetics_button_menu_back": "メニューに戻る",
+
+  "Тесты фонетика": "---",
+
+  "pt_question_7": "文字 'о' に対応する番号はどれですか？",
+  "pt_question_10": "単語 'мыс' に対応する番号はどれですか？",
+  "pt_question_16": "単語 'слон' に対応する番号はどれですか？",
+  "pt_question_20": "単語 'дым' に対応する番号はどれですか？",
+  "pt_question_27": "単語 'фон' に対応する番号はどれですか？",
+  "pt_question_31": "単語 'парк' に対応する番号はどれですか？"
+
+
+
 }

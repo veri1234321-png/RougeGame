@@ -182,5 +182,134 @@
   "game_nm_lvl_plural": "第一格：复数",
   "game_nm_lvl_pronouns": "第一格：代词",
   "game_nm_lvl_questions": "第一格：疑问词",
-  "game_nm_lvl_advanced": "第一格：进阶"
+  "game_nm_lvl_advanced": "第一格：进阶",
+
+  "game_ph_name": "⭐ 语音学",
+  "game_ph_not_ready": "游戏尚未准备好",
+  "game_ph_text_choose_game": "选择一个游戏",
+  "game_ph_btn_sound": "🔊 声音识别",
+  "game_ph_btn_repeat": "🎧 重复序列",
+  "game_ph_btn_word": "🧠 单词听力",
+  "game_ph_btn_test": "📖 测试：听力测试",
+  "game_ph_btn_next": "➡️ 下一题",
+  "lt_correct": "✅ 正确！",
+  "lt_wrong": "❌ 错误。正确答案：{correct}",
+  "lt_finished": "🏁 听力测试完成\n得分：{score}/{total}",
+
+
+
+
+
+  "game_ph_btn_lesson": "语音课程",
+
+  "game_phonetics_choose_lesson": "请选择课程：",
+  "game_phonetics_button_next_step": "下一步",
+  "phonetics_next_step": "继续？",
+  "game_phonetics_button_finish_lesson": "结束课程",
+  "phonetics_finish_lesson": "结束",
+  "game_phonetics_button_menu": "返回课程列表",
+  "game_phonetics_step_label": "步骤",
+
+  "game_phonetics_listen_prompt1_1": "俄语中有10个元音：а, у, э, о, ы, я, и, ю, е, ё。",
+  "game_phonetics_listen_prompt1_2": "а 发音像 car 中的 'a'\nу 发音像 cool 中的 'oo'\nэ 发音像 end 中的 'e'\nо 发音像 more 中的 'o'",
+  "game_phonetics_listen_prompt1_3": "а – у – э – о\n\nо – э – у – а\n\nа – о      о – у      у – э\n\nо – э      э – а       а – у",
+
+  "game_phonetics_hint1_1": "听",
+  "game_phonetics_hint1_2": "听",
+  "game_phonetics_hint1_3": "听音频并大声重复",
+
+  "game_phonetics_listen_prompt2_1": "俄语字母 ‘ы’ 的发音在中文中没有直接对应音。发这个音时，把舌头向后缩，在口中靠后的位置，尝试发接近 'i' 的声音。声音应从喉咙深处发出。舌位类似俄语元音 ‘у’，但嘴唇保持自然放松，不要突出或圆起。",
+  "game_phonetics_listen_prompt2_2": "ы – у      у – ы \n\nа – э – о – у – ы",
+  "game_phonetics_listen_prompt2_3": "\n",
+
+  "game_phonetics_hint2_1": "听音频并重复",
+  "game_phonetics_hint2_2": "听音频并大声重复",
+  "game_phonetics_hint2_3": "听音频并重复",
+
+  "game_phonetics_listen_prompt3_1": "с 发音像 sun 中的 's'\nк 发音像 key 中的 'k'\nм 发音像 man 中的 'm'",
+  "game_phonetics_listen_prompt3_2": "са – су – сы – сэ – со\n\nка – ку – кы – кэ – ко\n\nма – му – мы – мэ – мо\n\nам – ум – ым – эм – ом",
+  "game_phonetics_listen_prompt3_3": "как   мак     ком       кум        ум\n\nэму     эмо       Эмма     мы       мыс\n\nсам     сом        сок       сук       усы",
+
+  "game_phonetics_hint3_1": "这三个辅音的发音与英语中对应字母相似",
+  "game_phonetics_hint3_2": "听音频并大声重复音节",
+  "game_phonetics_hint3_3": "听音频并重复单词，然后大声朗读",
+
+
+  "game_phonetics_listen_prompt4_1": "Các phụ âm 'н' và 'л' trong tiếng Nga nghe gần giống như các chữ cái 'n' và 'l' trong tiếng Anh trong các từ 'note' và 'love'. Tuy nhiên, cách phát âm của chúng có một chút khác biệt.\n\nKhi bạn phát âm các chữ cái tiếng Nga 'н' và 'л', đầu lưỡi chạm vào mặt sau của răng trên.\n\nĐối với các chữ cái tương ứng trong tiếng Anh, lưỡi ở vị trí lùi hơn một chút. Nó chạm vào phần lợi (nướu) – vùng gồ ghề phía sau răng cửa trên.",
+  "game_phonetics_listen_prompt4_2": "на - ну - но - нэ - ны\n\nан - ун - он - эн - ын",
+  "game_phonetics_listen_prompt4_3": "нам     нас     нос     он        \n\nкон     сон     сан     сын",
+  "game_phonetics_listen_prompt4_4": "ла - лу - ло - лэ - лы\n\nна - ла     ну - лу    но - ло     нэ - лэ   ны - лы\n\nал - ул - ол - эл - ыл",
+  "game_phonetics_listen_prompt4_5": "лак        лук        лом      лоск\n\nкласс     клан      клон     клык\n\nслон       слом     кол       мул",
+  "game_phonetics_hint4_1": "Nghe âm thanh và nhắc lại",
+  "game_phonetics_hint4_2": "Nghe âm thanh và nhắc lại to rõ",
+  "game_phonetics_hint4_3": "Nghe âm thanh và nhắc lại các từ to rõ",
+  "game_phonetics_hint4_4": "Nghe âm thanh và nhắc lại",
+  "game_phonetics_hint4_5": "Nghe âm thanh và nhắc lại các từ to rõ",
+  "game_phonetics_listen_prompt5_1": "Các phụ âm tiếng Nga 'т' và 'д' giống với các chữ cái 't' và 'd' trong tiếng Anh, nhưng cách phát âm lại khác.\n\nKhi phát âm các chữ cái tiếng Nga 'т' và 'д', bạn ấn đầu lưỡi vào mặt sau của răng trên, thay vì ấn vào phần lợi như đối với các chữ cái 't' và 'd' trong tiếng Anh. Vị trí lưỡi này cũng giống như khi phát âm chữ 'n' trong từ 'note'.",
+  "game_phonetics_listen_prompt5_2": "на - та - да      ну - ту - ду      но - то - до       нэ - тэ - дэ      ны - ты - ды\n\nта - ту - то - тэ - ты\n\nда - ду - до  - дэ - ды\n\nта - да      ту - ду      то - до      тэ - дэ      ты - ды",
+  "game_phonetics_listen_prompt5_3": "так      там       тон        ты        тут\n\nнут      кот        эта       сыт       мост    \n\nстук     стул      стол      сток     стан\n\nда        дан       дол       дом      дым",
+  "game_phonetics_hint5_1": "Nghe âm thanh và nhắc lại",
+  "game_phonetics_hint5_2": "Nghe âm thanh và nhắc lại các âm tiết",
+  "game_phonetics_hint5_3": "Nghe âm thanh và nhắc lại các từ. Sau đó đọc to các từ",
+  "game_phonetics_listen_prompt6_1": "'п' phát âm giống 'p' trong 'pet'\n'б' phát âm giống 'b' trong 'bed'",
+  "game_phonetics_listen_prompt6_2": "па - пу - по - пэ - пы\n\nба - бу - бо - бэ - бы\n\nпа - ба       пу - бу       по - бо       пэ - бэ       пы - бы\n\nап - уп - оп - эп - ып",
+  "game_phonetics_listen_prompt6_3": "пол       пыл        пуск       план\n\nсуп       сноп       топ         стоп     \n\nбал       банк       босс       бокс      \n\nбык       быт        бум        блок",
+  "game_phonetics_hint6_1": "'п' phát âm giống 'p' trong 'pet'\n'б' phát âm giống 'b' trong 'bed'",
+  "game_phonetics_hint6_2": "Nghe âm thanh và nhắc lại các âm tiết",
+  "game_phonetics_hint6_3": "Nghe âm thanh và nhắc lại các từ. Sau đó đọc to các từ",
+  "game_phonetics_listen_prompt7_1": "'ф' phát âm giống 'f' trong 'fun'\n'в' phát âm giống 'v' trong 'very'",
+  "game_phonetics_listen_prompt7_2": "фа - ва       фу - ву       фо - во       фэ - вэ       фы - вы\n\nаф - уф - оф - эф - ыф",
+  "game_phonetics_listen_prompt7_3": "вас       вам        вата        вы\n\nвол       вот        внук        фут   \n\nфон      фан       фанк       факс",
+  "game_phonetics_hint7_1": "Các phụ âm này được phát âm giống như các chữ cái tương ứng trong tiếng Anh",
+  "game_phonetics_hint7_2": "Nghe âm thanh và nhắc lại các âm tiết",
+  "game_phonetics_hint7_3": "Nghe âm thanh và nhắc lại các từ. Sau đó tự đọc các từ",
+  "game_phonetics_listen_prompt8_1": "Phụ âm tiếng Nga 'р' giống với chữ cái 'r' trong tiếng Anh trong từ 'right'. Tuy nhiên, không giống như chữ 'r' trong tiếng Anh, đây là một âm rung. Khi phát âm, đầu lưỡi được nâng lên chạm vào phần lợi, nhưng không bị cong ra sau. Đầu lưỡi rung nhẹ khi chạm vào phần lợi.",
+  "game_phonetics_listen_prompt8_2": "ра - ру - ро - рэ - ры\n\nпра - бра    пру - бру    про - бро    прэ - брэ     пры - бры \n\nар - ур - ор - эр\n\nла - ра   ло - ро   лу - ру   лы - ры",
+  "game_phonetics_listen_prompt8_3": "рак       рок        ром      ромб       рэп\n\nбрак     бром      брас     брус       прок     брат    прут\n\nбар       пар        вор       бор        дар\n\nсыр       сэр        мэр       парк      Марс    \n\nфарс     март      спорт",
+  "game_phonetics_hint8_1": "Nghe âm thanh và nhắc lại",
+  "game_phonetics_hint8_2": "Nghe âm thanh và nhắc lại các âm tiết",
+  "game_phonetics_hint8_3": "Nghe âm thanh và nhắc lại các từ. Sau đó đọc to các từ",
+  "game_phonetics_listen_prompt9_1": "Tiếng Nga, cũng giống như tiếng Anh và nhiều ngôn ngữ khác, sử dụng trọng âm. Điều này có nghĩa là một âm tiết trong từ (âm tiết được nhấn trọng âm) được phát âm nhấn mạnh hơn các âm tiết còn lại. Nếu từ chỉ có một âm tiết, nó luôn luôn được nhấn trọng âm.",
+  "game_phonetics_listen_prompt9_2": "Trọng âm là yếu tố thiết yếu để phát âm và đánh vần chính xác, vì một số âm nguyên âm trong các âm tiết không được nhấn trọng âm sẽ được phát âm khác đi. \n\nHơn nữa, đặt sai trọng âm thậm chí có thể làm thay đổi nghĩa của từ. Ví dụ: \nзамо́к (ổ khóa) - за́мок (lâu đài), плачу́ (tôi trả tiền) - пла́чу (tôi khóc), v.v.",
+  "game_phonetics_listen_prompt9_3": "ма́ма          па́па            ка́рта          ры́ба          па́ста        фо́рма\n\nрука́          сала́т           бана́н          бала́нс       балко́н      футбо́л       \n\nрабо́та       буты́лка      капу́ста        банкно́та",
+  "game_phonetics_hint9_1": "Nghe âm thanh và đọc các ví dụ: \nма́ма, па́ста, сала́т, бана́н, рабо́та",
+  "game_phonetics_hint9_2": "Thông thường, các văn bản tiếng Nga được viết không có dấu trọng âm. Tuy nhiên, dấu trọng âm được sử dụng trong từ điển và các tài liệu dành cho người mới bắt đầu.",
+  "game_phonetics_hint9_3": "Nghe âm thanh và nhắc lại các từ, chú ý đến trọng âm. Sau đó, đọc to các từ",
+  "game_phonetics_listen_prompt10_1": "'и' phát âm giống 'ea' trong 'each'\n'е' phát âm giống 'ye' trong 'yet'\n'я' phát âm giống 'ya' trong 'yard'\n'ю' phát âm giống 'u' trong 'use'\n'ё' phát âm giống 'yo' trong 'yoga'\n\nLƯU Ý! Chữ 'ё' luôn được nhấn trọng âm trong các từ tiếng Nga. Do đó, chúng ta không đặt dấu trọng âm trên các từ có chữ 'ё'.",
+  "game_phonetics_listen_prompt10_2": "и - е - я - ю - ё\n\nё - ю - я - е - и \n\nян - ин - юн - ен - ён\n\nял - ил - юл - ел - ёл",
+  "game_phonetics_listen_prompt10_3": "икра       икона      поиск       если      евро\n\nуеду       яма          ярус        туя         юла       \n\nюрта       уют         ёлка        паёк       наём",
+  "game_phonetics_hint10_1": "Các nguyên âm này được phát âm giống như trong tiếng Anh",
+  "game_phonetics_hint10_2": "Nghe âm thanh và nhắc lại to rõ",
+  "game_phonetics_hint10_3": "Nghe âm thanh và nhắc lại các từ. Sau đó đọc to các từ",
+
+
+  "game_phonetics_lesson_label1": "第1课：‘А’、‘У’、‘О’ 和 ‘Э’",
+  "game_phonetics_lesson_label2": "第2课：‘Ы’",
+  "game_phonetics_lesson_label3": "第3课：‘С’、‘К’ 和 ‘М’",
+  "game_phonetics_lesson_label4": "第4课：‘Н’ 和 ‘Л’",
+  "game_phonetics_lesson_label5": "第5课：‘Т’ 和 ‘Д’",
+  "game_phonetics_lesson_label6": "第6课：‘П’ 和 ‘Б’",
+  "game_phonetics_lesson_label7": "第7课：‘Ф’ 和 ‘В’",
+  "game_phonetics_lesson_label8": "第8课：‘Р’",
+  "game_phonetics_lesson_label9": "第9课：单词重音",
+  "game_phonetics_lesson_label10": "第10课：‘И’、‘Е’、‘Я’、‘Ю’ 和 ‘Ё’",
+
+  "game_phonetics_end_text": "课程结束",
+
+  "game_phonetics_button_repeat_lesson": "🔄 再学一次",
+  "game_phonetics_button_next_lesson": "➡️ 下一课",
+  "game_phonetics_button_lesson_menu": "📋 课程选择",
+  "game_phonetics_it_was_last_lesson": "这是最后一课\n你做得很好！",
+
+  "game_phonetics_button_menu_back": "返回菜单",
+
+  "Тесты фонетика": "---",
+
+  "pt_question_7": "哪个数字对应字母 'о'？",
+  "pt_question_10": "哪个数字对应单词 'мыс'？",
+  "pt_question_16": "哪个数字对应单词 'слон'？",
+  "pt_question_20": "哪个数字对应单词 'дым'？",
+  "pt_question_27": "哪个数字对应单词 'фон'？",
+  "pt_question_31": "哪个数字对应单词 'парк'？"
+
 }

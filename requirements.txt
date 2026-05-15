@@ -14,3 +14,6 @@ uvicorn[standard]>=0.32.0
 openai-whisper>=20231117
 ffmpeg-python>=0.2.0
 
+# Unspecified dependencies
+pydantic~=2.11.10
+gigachat~=0.2.0

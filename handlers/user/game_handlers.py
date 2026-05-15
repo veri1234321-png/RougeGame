@@ -16,6 +16,7 @@ from games import (
     russian_tutor,
     translate_word_quiz,
     speech_practice_quiz,
+    phonetics_menu,
     sing_along,
     watch_video,
     verb_tense_quiz,
@@ -26,7 +27,7 @@ from games import (
 
 
 router = Router()
-
+PHONETICS_GAME = ["phonetics_listening_test", "phonetics_lesson"]
 
 async def get_user_language(user_id: int) -> str:
     """Вспомогательная функция для получения языка пользователя с fallback на 'en'."""
@@ -42,6 +43,7 @@ async def _get_dynamic_keyboard(lang: str):
     buttons = []
 
     for game_id, game in games.items():
+        if game_id in PHONETICS_GAME: continue
         buttons.append(
             [
                 InlineKeyboardButton(

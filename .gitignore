@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Environment
 .env
 .env.local
@@ -52,3 +53,60 @@ temp/
 # OS
 .DS_Store
 Thumbs.db
+=======
+*.[Oo]bj
+*.user
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.[Cc]ache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.sdf
+*.opensdf
+*.unsuccessfulbuild
+ipch/
+obj/
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+Ankh.NoLoad
+
+*.pidb
+*.userprefs
+
+#Tooling
+_ReSharper*/
+*.resharper
+[Tt]est[Rr]esult*
+*.sass-cache
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.vsidx
+# Hugo
+.hugo_build.lock
+resources/
+public/
+
+src/build/
+*.exe
+*.dll
+*.obj
+*.o
+*.a
+*.lib
+*.vsidx
+>>>>>>> 2f8963950796c2c331050cb5711c9372ad034e28

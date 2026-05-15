@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #OS junk files
 [Tt]humbs.db
 *.DS_Store
@@ -73,11 +74,14 @@ RogueSharp.Docs/Help/
 #Necessary Dlls
 !Dlls/*
 
+=======
+>>>>>>> 1ecda107c9633f7d5fa951a884d26a1261c07be9
 .vs/
 bin/
 obj/
 *.user
 *.suo
+<<<<<<< HEAD
 *.vsidx
 =======
 # Hugo
@@ -102,3 +106,6 @@ Thumbs.db
 # project info
 project-info.md
 >>>>>>> 215616fb47f7d407529fce311dfb2bce73f69f5d
+=======
+*.vsidx
+>>>>>>> 1ecda107c9633f7d5fa951a884d26a1261c07be9
